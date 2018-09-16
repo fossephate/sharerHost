@@ -1,0 +1,2 @@
+title myController
+sharer.exe myController
